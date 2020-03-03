@@ -1,2 +1,3 @@
 name: Jesse Goebel, Software Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
